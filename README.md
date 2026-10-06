@@ -1,24 +1,19 @@
-# Agents Practice Project
+# 🎓 Agents Practice: Study & Learning Companion
 
-A simple, clean, and professional repository template for AI agent workflows and code development.
+Welcome to **Agents Practice**! This project configures an AI Agent using [`AGENTS.md`](file:///Users/ikromyusupov/Desktop/PRO/practice/agents_practice/AGENTS.md) to serve as an interactive, personalized study buddy.
 
-## 📁 Folder Structure
+---
 
-```
-agents_practice/
-├── docs/          # Project documentation
-├── scripts/       # Automation and setup scripts
-├── src/           # Main source code
-│   ├── components/ # Reusable modules/components
-│   └── utils/      # Helper functions and utilities
-├── tests/         # Unit and integration tests
-├── AGENTS.md      # Rules and instructions for AI agents
-└── README.md      # Project overview and guide
-```
+## 📖 How to Use
 
-## 🛠️ Getting Started
+1. **Start Learning**: Open a conversation with the AI agent and ask about any topic you want to study (e.g., *"Teach me about Neural Networks"* or *"Explain World War II"*).
+2. **Interactive Triggers**:
+   - Type **`"quiz me"`** to get a 1-question active recall quiz.
+   - Type **`"eli5"`** (Explain Like I'm 5) for a simple real-world analogy.
+   - Type **`"study plan"`** to generate a step-by-step learning roadmap.
+3. **Earn Badges**: Collect achievement badges (`🧠 Brain Power`, `💡 Lightbulb Moment`, `🎓 Mastered`) as you master concepts!
 
-1. Place your main application code inside `src/`.
-2. Add helper utilities in `src/utils/`.
-3. Add automated tests inside `tests/`.
-4. Review [AGENTS.md](AGENTS.md) for AI agent coding rules.
+---
+
+## 🛠️ Configuration
+The AI agent behavior is defined in [`AGENTS.md`](file:///Users/ikromyusupov/Desktop/PRO/practice/agents_practice/AGENTS.md). Customize that file to adjust learning principles, add new commands, or tweak achievement badges.
