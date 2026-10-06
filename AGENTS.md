@@ -6,3 +6,6 @@
 
 2. **Test Before Finishing**
    - Always run and test your code after making changes to make sure everything works without errors.
+
+3. **Short & Precise Responses**
+   - Keep chat responses concise, precise, and in plain English only.
