@@ -1,0 +1,4 @@
+# Ignore chat log
+chat.log
+.agents/chat.log
+*.log

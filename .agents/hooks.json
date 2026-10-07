@@ -1,0 +1,10 @@
+{
+  "chat-logger": {
+    "PreInvocation": [
+      {
+        "type": "command",
+        "command": "python3 scripts/log_chat.py"
+      }
+    ]
+  }
+}
